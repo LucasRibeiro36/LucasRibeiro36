@@ -5,7 +5,7 @@
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg">
-  <img align="center" alt="C" height="30" width="40" src="src="https://img.icons8.com/color/48/000000/c-programming.png"">
+  <img align="center" alt="C" height="30" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png">
   <img align="center" alt="Bash" height="30" width="40" src="https://img.icons8.com/plasticine/100/000000/bash.png">
   <img align="center" alt="Lua" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png">
 </div>
