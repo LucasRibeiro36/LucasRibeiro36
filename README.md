@@ -5,8 +5,8 @@
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://th.bing.com/th/id/R26603f1898814308dced061cf1895cc2?rik=LzL%2bfxQ9gGPuPQ&pid=ImgRaw">
+  <img align="center" alt="Bash" height="30" width="40" src="https://th.bing.com/th/id/R08260e63a1c453f82f5ec1b37e2e6243?rik=D1%2bXU8aEWRyEuA&pid=ImgRaw">
   <img align="center" alt="Lua" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/947px-Lua-Logo.svg.png">
 </div>
   
