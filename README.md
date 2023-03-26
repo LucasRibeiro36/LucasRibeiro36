@@ -5,9 +5,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRibeiro36&layout=compact&langs_count=7&theme=github_dark"/>
 <div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/python.svg">
-  <img align="center" alt="C" height="30" width="40" src="https://img.icons8.com/color/48/000000/c-programming.png">
-  <img align="center" alt="Bash" height="30" width="40" src="https://img.icons8.com/plasticine/100/000000/bash.png">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,c,python,java,spring,javascript,androidstudio,aws,azure,blender,bots" />
+  </a>
+</p>
 </div>
   
   ##
